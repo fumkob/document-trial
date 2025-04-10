@@ -6,6 +6,10 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 For setting up the development environment, refer to the [Setup Guide](setup.md).
 
+## Guide
+
+Explore further guidelines in the [Additional Documentation](guide/extra.md).
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
@@ -19,4 +23,6 @@ For setting up the development environment, refer to the [Setup Guide](setup.md)
     docs/
         index.md  # The documentation homepage.
         setup.md  # The development environment setup guide.
+        guide/
+            extra.md  # Additional documentation.
         ...       # Other markdown pages, images and other files.
